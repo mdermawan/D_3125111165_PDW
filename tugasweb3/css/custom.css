@@ -1,5 +1,6 @@
 body{
-	background-color: lightgrey;
+	background-color: #00F ;
+	
 
 }
 #sliding {
@@ -33,13 +34,6 @@ body{
 	margin-bottom: 30px;
 }
 
-.depen{
-
-	margin: -20px 20px 20px 20px;
-	box-shadow: 2px 0px 10px 0px black;
-	height: 70px;
-	background-color: white;
-}
 
 #list{
 
